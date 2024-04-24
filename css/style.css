@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+}
+
+.amarillo {
+    background-color: yellow;
+    height: 70px;
+    
+
+}
+
+.verde {
+    background-color: green;
+    height: 70px;
+}
+
+.azul {
+    background-color: blue;
+    height: 70px;
+}
+
+.rojo {
+    background-color: red;
+    height: 70px;
+}
+
+.beige {
+    background-color: bisque;
+    height: 500px;
+}
+
+.amarillo2 {
+    background-color: rgb(63, 153, 212);
+    height: 300px;
+
+}
+
+.verde2 {
+    background-color: rgb(128, 228, 34);
+    height: 300px;
+}
+
+.azul2 {
+    background-color: rgb(211, 66, 85);
+    height: 300px;
+}
+
+.rojo2 {
+    background-color: rgb(140, 48, 247);
+    height: 300px;
+}
+
+.rosa {
+    background-color: rgb(255, 139, 154);
+    height: 300px;
+}
+
+.lila {
+    background-color: mediumslateblue;
+    height: 300px;
+}
+
+.gris {
+    background-color: rgb(84, 84, 87);
+    height: 300px;
+}
+
+.cafe {
+    background-color: brown;
+    height: 300px;
+}
+
+.celeste {
+    background-color: rgb(46, 112, 114);
+    height: 300px;
+}
+
+.blanco {
+    background-color: rgb(255, 255, 255);
+    height: 300px;
+}
+
+.negro {
+    background-color: rgb(0, 0, 0);
+    height: 300px;
+}
+
+.caja1 {
+    background-color: cadetblue;
+    height: 300px;
+}
+
+.caja2 {
+    background-color: rgb(168, 202, 90);
+    height: 300px;
+}
+
+.caja3 {
+    background-color: rgb(102, 41, 75);
+    height: 300px;
+}
+
+.caja4 {
+    background-color: rgb(240, 125, 72);
+    height: 300px;
+}
+
+.caja5 {
+    background-color: rgb(220, 233, 175);
+    height: 300px;
+}
+
+.caja6 {
+    background-color: rgb(81, 45, 139);
+    height: 300px;
+}
